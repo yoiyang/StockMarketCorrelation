@@ -1,7 +1,5 @@
 # Finding Correlation Between Stock Price & News
 
-One Paragraph of project description goes here
-
 ## Getting Started
 
 Click on "FindStockCorrelation.ipynb" for results
@@ -51,7 +49,7 @@ We started by importing packages that will help us get/visualize data. The packa
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md] for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Authors:
 
