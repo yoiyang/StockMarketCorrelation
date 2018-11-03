@@ -35,8 +35,8 @@ Finally, we broadened the scope of our project by looking at how more general ne
 
 ### Overview
 
-We pulled our data based on two categories: <br\>
-1) Data from 2 private companies (Amazon and Nike)<br\>
+We pulled our data based on two categories: 
+1) Data from 2 private companies (Amazon and Nike)
 2) Data from the Dow Jones Index. 
 
 The goal was to get two different data sets for each. The first data set consists of news about the company/DJI and the date the article was published. Basically these data sets consist of tables with two rows: Data and Headlines. The second data set consists of stock price and the date. We found historical data for each of the companies mentioned above and the Dow Jones Index from Yahoo Finance. For the private companies we pulled data for the last 2 years (6 years for DJI). WE did not have to scrape the data from their website since we were able to download the cvs file.
